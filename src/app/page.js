@@ -18,7 +18,7 @@ export default function Home() {
             <button className="btn btn-primary">Get Started</button>
           </div>
           <img
-            src="https://img.daisyui.com/images/stock/photo-1635805737707-575885ab0820.webp"
+            src="https://wallpapercave.com/wp/wp4049357.jpg"
             className="max-w-sm rounded-lg shadow-2xl border border-blue-500"
           />
         </div>
