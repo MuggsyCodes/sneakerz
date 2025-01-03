@@ -14,7 +14,7 @@ export default function Home() {
       <div className="hero min-h-screen">
         <div className="hero-content flex-col lg:flex-row border border-yellow-500">
           <div className="flex flex-col w-1/2 border border-rose-500">
-            <h1 className="text-5xl font-bold text-accent">Play kittenz 🧶</h1>
+            <h1 className="text-5xl font-bold text-accent">Sneakerz 👟</h1>
             <h2 className="text-2xl font-bold mt-2">
               The Purr-fectly Ridiculous Kitten Matching Game
             </h2>
